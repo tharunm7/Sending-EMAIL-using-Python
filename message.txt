@@ -1,0 +1,8 @@
+Hello User....!!
+This is an automated email sent using Python Script.
+Send me a text once you receive this.
+
+Thank you.
+
+Best Regards,
+Your Name
