@@ -1,1 +1,1 @@
-# Sending-EMAIL-yousing-Python
+# Sending-EMAIL-using-Python
